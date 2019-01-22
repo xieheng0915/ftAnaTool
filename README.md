@@ -1,6 +1,4 @@
-# fastText Japanese Tutorial
 
-Facebookの発表した[fastText](https://github.com/facebookresearch/fastText)を日本語で学習させるためのチュートリアルです。
 
 ## Setup
 
